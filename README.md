@@ -11,7 +11,7 @@ API for handling conversation: Built to engage in dynamic user interactions, thi
 
 Note: Keeping in line with business confidentiality, because we have business in Slovenia, the full codebase cannot be disclosed. But, to offer a glimpse into our system's operation and design, we've shared image examples.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/039519fc-90bf-4b6c-8b97-9746a54624ac)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/742ec318-132c-4bb8-adf9-072949e46286)
 
 So in the first picture, we see that we have support for  WordPress Integration, Avatar, and Educational Robot - AlphaMini(want to expand on more robots)
 
