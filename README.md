@@ -33,7 +33,7 @@ Our system lets you craft dialogs with ease, reminiscent of crafting a Facebook 
 
 In today's digital age, personalization is paramount. We believe that providing a unique identity to interact with, adds an element of engagement and a personal touch to user interactions. Choose from a vast selection of predefined avatars that cater to various preferences and industries. Make your interactions more human-like with our own natural language processing AI pipeline. Stand out and let your users interact with an identity uniquely crafted for you.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/579555f2-94ae-4f91-a836-967f5bea23c8)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/e8b62dbf-c9ae-4032-8766-aa0b08d99579)
 
 ![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/f121d74b-4859-48fb-af72-558dff4376ba)
 
