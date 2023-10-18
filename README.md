@@ -17,11 +17,13 @@ The first picture shows, that our pipeline is integrated for the following servi
 
 For every service, the users have the option to create their own unique profile. For each service the user can have multiple profiles, each profile having specific service settings. 
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/7060b9db-cfb9-4884-a15f-cfcf8bf74b1d)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/3e555c72-3c71-48f9-b312-a0f8b89b1af0)
+
 
 we believe in giving our users the flexibility and power to choose. Our modular system ensures that you get exactly what you need based on your subscription. While our higher tiers provide advanced modules for an enhanced experience and solving complex challenges, our lower tiers offer essential features that ensure a reliable, effective, and positive user journey. With our commitment to inclusivity, no user shall get left behind!
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/131abf57-6234-437c-8743-f9779fc89a38)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/95c9d412-d0ce-44b3-9664-607b3296e0f9)
+
 
 We understand the importance of convenience and flexibility. That's why we've introduced multiple methods for our users to add dialogs seamlessly.
 Users can create dialogs throught our GUI dialog crafter manually, or just upload a file/link to the relevant data, and leverage the power of AI to take the wheel of dialog creation. 
@@ -31,7 +33,7 @@ Our system lets you craft dialogs with ease, reminiscent of crafting a Facebook 
 
 In today's digital age, personalization is paramount. We believe that providing a unique identity to interact with, adds an element of engagement and a personal touch to user interactions. Choose from a vast selection of predefined avatars that cater to various preferences and industries. Make your interactions more human-like with our own natural language processing AI pipeline. Stand out and let your users interact with an identity uniquely crafted for you.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/cc132769-ca4e-4735-9206-0e92abbbc375)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/579555f2-94ae-4f91-a836-967f5bea23c8)
 
 ![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/f121d74b-4859-48fb-af72-558dff4376ba)
 
