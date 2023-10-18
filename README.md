@@ -17,7 +17,7 @@ So in the first picture, we see that we have support for  WordPress Integration,
 
 For every service we offer, users have the opportunity to create their own unique profile.
 
-![Uploading image.png…]()
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/9564568a-ed70-464a-9a34-f09f539296fd)
 
 we believe in giving our users the flexibility and power to choose. Our modular system ensures that you get exactly what you need based on your subscription. So if users have a Basic subscription can only choose between modules that are basic and so on.
 
@@ -39,7 +39,7 @@ Our WordPress plugin offers an easy way to integrate our advanced chatbot servic
 
 We understand the diverse requirements of our clientele. Therefore, we offer a variety of subscription plans to cater to everyone from startups to enterprises.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/2db9c38d-a417-4d44-936e-414b7b2535dd)
+![Uploading image.png…]()
 
 Joining the Global Arena: We're excited to showcase our solution at the Multiverx Hackathon. While we're rooted in Slovenia, our ambition is global. As we participate in this hackathon, we aim to broaden our horizons, taking one step closer to our international aspirations. You can test our services via: https://aibc-robotics.com/ on button Portal. There you have also a lot of demos about avatars, robots, and chatbots.
 
