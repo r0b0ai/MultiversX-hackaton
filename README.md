@@ -11,19 +11,17 @@ API for handling conversation: Built to engage in dynamic user interactions, thi
 
 Note: Keeping in line with business confidentiality, because we have business in Slovenia, the full codebase cannot be disclosed. But, to offer a glimpse into our system's operation and design, we've shared image examples.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/742ec318-132c-4bb8-adf9-072949e46286)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/ce2e3d70-1ced-4320-bd8a-176e0566a43f)
 
 So in the first picture, we see that we have support for  WordPress Integration, Avatar, and Educational Robot - AlphaMini(want to expand on more robots)
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/c173f419-6e4d-4950-afbb-7248ec5c07c0)
-
 For every service we offer, users have the opportunity to create their own unique profile.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/fc840135-de94-44b0-bff2-35248ac927e7)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/51d164e9-7558-483f-9407-7d3928d17fb1)
 
 we believe in giving our users the flexibility and power to choose. Our modular system ensures that you get exactly what you need based on your subscription. So if users have a Basic subscription can only choose between modules that are basic and so on.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/20c585be-f1f1-4812-bd5b-c345e2d8bb64)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/131abf57-6234-437c-8743-f9779fc89a38)
 
 We understand the importance of convenience and flexibility. That's why we've introduced multiple methods for our users to add dialogs seamlessly via documents, links or our GUI lets you craft dialogs with ease, reminiscent of crafting a Facebook post.
 
