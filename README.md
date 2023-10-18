@@ -11,37 +11,36 @@ API for handling conversation: Built to engage in dynamic user interactions, thi
 
 Note: Keeping in line with business confidentiality, because we have business in Slovenia, the full codebase cannot be disclosed. But, to offer a glimpse into our system's operation and design, we've shared image examples.
 
-
-
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/6a736029-098a-44ba-8548-82f9ee974036)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/039519fc-90bf-4b6c-8b97-9746a54624ac)
 
 So in the first picture, we see that we have support for  WordPress Integration, Avatar, and Educational Robot - AlphaMini(want to expand on more robots)
 
 ![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/c173f419-6e4d-4950-afbb-7248ec5c07c0)
 
-For every service we offer, users have the opportunity to create their own unique profile. This personalized touch ensures.
+For every service we offer, users have the opportunity to create their own unique profile.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/5c35b132-0ecf-4956-97e2-5c815c78c006)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/fc840135-de94-44b0-bff2-35248ac927e7)
 
 we believe in giving our users the flexibility and power to choose. Our modular system ensures that you get exactly what you need based on your subscription. So if users have a Basic subscription can only choose between modules that are basic and so on.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/4f5c74a3-38fe-4980-b4b9-741c2a589825)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/20c585be-f1f1-4812-bd5b-c345e2d8bb64)
 
 We understand the importance of convenience and flexibility. That's why we've introduced multiple methods for our users to add dialogs seamlessly via documents, links or our GUI lets you craft dialogs with ease, reminiscent of crafting a Facebook post.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/31e3d6e8-0ea0-4815-9a6f-6deb479fb8b2)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/8694d8c6-54f0-40c7-872a-c04e68b6c31e)
 
 In today's digital age, personalization is paramount. We believe that providing a unique identity to interact with adds an element of engagement and a personal touch to user interactions. To that end, our platform offers. Choose from a vast selection of predefined avatars that cater to various preferences and industries. Make your AI interactions more human-like with our avatar solutions. Stand out and let your users interact with an identity uniquely crafted for you.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/7db38e06-c453-4839-b030-6928f02c7c70)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/cc132769-ca4e-4735-9206-0e92abbbc375)
+
 
 Our WordPress plugin offers an easy way to integrate our advanced chatbot services directly into your WordPress website.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/8ff5861f-b1fb-4b22-8bec-f0f1f9c06eb9)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/2885949a-1769-4074-8d47-0a6de943b843)
 
 We understand the diverse requirements of our clientele. Therefore, we offer a variety of subscription plans to cater to everyone from startups to enterprises.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/43178320-920c-47c1-93b2-6ac41239f936)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/edfd7168-7d6c-4c8f-9727-8cd8570d6cd4)
 
 Joining the Global Arena: We're excited to showcase our solution at the Multiverx Hackathon. While we're rooted in Slovenia, our ambition is global. As we participate in this hackathon, we aim to broaden our horizons, taking one step closer to our international aspirations. You can test our services via: https://aibc-robotics.com/ on button Portal. There you have also a lot of demos about avatars, robots, and chatbots.
 
