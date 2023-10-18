@@ -17,7 +17,7 @@ So in the first picture, we see that we have support for  WordPress Integration,
 
 For every service we offer, users have the opportunity to create their own unique profile.
 
-![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/51d164e9-7558-483f-9407-7d3928d17fb1)
+![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/3d6053bf-36f7-4c5e-9dff-a212ef6689f8)
 
 we believe in giving our users the flexibility and power to choose. Our modular system ensures that you get exactly what you need based on your subscription. So if users have a Basic subscription can only choose between modules that are basic and so on.
 
