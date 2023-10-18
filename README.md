@@ -43,7 +43,8 @@ We understand the diverse requirements of our clientele. Therefore, we offer a v
 
 ![image](https://github.com/r0b0ai/MultiversX-hackaton/assets/136820991/7a135459-4a9e-4c34-8e2f-d5c5f4513188)
 
-Joining the Global Arena: We're excited to showcase our solution at the Multiverx Hackathon. While we're rooted in Slovenia, our ambition is global. As we participate in this hackathon, we aim to broaden our horizons, taking one step closer to our international aspirations. Explore our services by visiting https://aibc-robotics.com/ and clicking on the 'Portal' button. There, you'll also find introductory videos showcasing our product. If you have any questions, please don't hesitate to contact us.
+Joining the Global Arena: We're excited to showcase our solution at the Multiverx Hackathon. While we're rooted in Slovenia, our ambition is global. As we participate in this hackathon, we aim to broaden our horizons, taking one step closer to our international aspirations. 
+Explore our services by visiting https://aibc-robotics.com/ and clicking on the 'Portal' button. There, you'll also find introductory videos showcasing our product. If you have any questions, please don't hesitate to contact us.
 
 
 
